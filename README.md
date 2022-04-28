@@ -4,7 +4,6 @@
 <p>
 I have worked for seven years as a reporting&analysist specialist. I completed my master's degree in management information systems. Now, I would like to change my career as a front-end developer. Recently, I have been learning <b><i>HTML5</i></b>,<b><i> CSS3</i></b>, and <i><b>JavaScript</i></b>. And I am willing to work as a Front-End developer in the future.
 </p>
-<br>
 
 ## Connect with me:
 <p align="left">
@@ -13,7 +12,6 @@ I have worked for seven years as a reporting&analysist specialist. I completed m
     <a href="https://www.instagram.com/tugce.vtnsvr/?hl=tr" target="_blank"> <img src="instagram.png" alt="javascript" width="35" height="35"/> </a>
    
  </p>
-<br>
 
 ## Languages and Tools:
 <p align="left">
