@@ -10,8 +10,8 @@ I have worked for seven years as a reporting&analysist specialist. I completed m
 <p align="left">
     <a href="https://www.linkedin.com/in/tugcevatansevergunduz/" target="_blank"> <img src="linkedin.png" alt="html5" width="35" height="35"/> </a>
     <a href="https://stackoverflow.com/users/18804944/tugce-vatansever-gunduz" target="_blank"> <img src="stack-overflow.png" alt="css3" width="40" height="40"/> </a>
-    <a href="https://www.instagram.com/?hl=tr" target="_blank"> <img src="instagram.png" alt="javascript" width="35" height="35"/> </a>
-    <a href="https://github.com/TugceVG" target="_blank"> <img src="github-sign.png" alt="javascript" width="35" height="35"/> </a>
+    <a href="https://www.instagram.com/tugce.vtnsvr/?hl=tr" target="_blank"> <img src="instagram.png" alt="javascript" width="35" height="35"/> </a>
+   
  </p>
 <br>
 
