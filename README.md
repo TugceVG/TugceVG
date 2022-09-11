@@ -8,7 +8,6 @@
 <p>
 I have worked for seven years as a reporting&analysist specialist. I completed my master's degree in management information systems. Now, I would like to change my career as a front-end developer. Recently, I have been learning <b><i>HTML5</i></b>,<b><i> CSS3</i></b>, and <i><b>JavaScript</i></b>. And I am willing to work as a Front-End developer in the future.
 </p>
-<br>
 
 ## Connect with me:
 <p align="left">
@@ -29,4 +28,5 @@ I have worked for seven years as a reporting&analysist specialist. I completed m
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
+<br>
 
