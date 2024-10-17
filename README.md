@@ -5,9 +5,9 @@
 # Hi there, I'm Tugce 👋
 <img src="https://intro.rustbridge.com/img/ferris.gif" style="border-radius:6px" width="200">
 <br>
-<p>
+<!-- <p>
 I have worked for seven years as a reporting&analysist specialist. I completed my master's degree in management information systems. Now, I would like to change my career as a front-end developer. Recently, I have been learning <b><i>HTML5</i></b>,<b><i> CSS3</i></b>, and <i><b>JavaScript</i></b>. And I am willing to work as a Front-End developer in the future.
-</p>
+</p> -->
 <br>
 
 ## Connect with me:
